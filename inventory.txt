@@ -1,0 +1,4 @@
+A1::Twinkle Pie::2::2.50
+A2::Corn Krispies::2::1.53
+A3::Potato Snaps::0::3.21
+A4::Ginger Mints::3::3.00

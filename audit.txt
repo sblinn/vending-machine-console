@@ -1,0 +1,13 @@
+2022-01-24T17:04:29.192678 : Item A1 : Twinkle Pie CREATED.
+2022-01-24T17:04:29.206502 : Item A2 : Corn Krispies CREATED.
+2022-01-25T12:20:37.287979 : Item a1 UPDATED to: Twinkle Pie
+2022-01-25T12:21:56.188801 : Item A1 UPDATED to: Twinkle Pie
+2022-01-25T12:30:23.985396 : Item a1 UPDATED to: Twinkle Pie
+2022-01-27T12:38:45.417231 : Item A3 : Potato Snaps CREATED.
+2022-01-27T12:38:45.452910 : Item A4 : Ginger Mints CREATED.
+2022-01-27T12:55:01.114369 : Item at a1: [Twinkle Pie (5 in stock) : $2.50] UPDATED to: [Twinkle Pie (4 in stock) : $2.50]
+2022-01-27T13:01:39.441894 : Item at a4: [Ginger Mints (6 in stock) : $3.00] UPDATED to: [Ginger Mints (5 in stock) : $3.00]
+2022-01-28T16:07:07.074984 : Item at a1: [Twinkle Pie (4 in stock) : $2.50] UPDATED to: [Twinkle Pie (3 in stock) : $2.50]
+2022-01-30T13:33:18.090819 : Item at a4: [Ginger Mints (5 in stock) : $3.00] UPDATED to: [Ginger Mints (4 in stock) : $3.00]
+2022-01-31T18:04:22.816628 : Item at a4: [Ginger Mints (4 in stock) : $3.00] UPDATED to: [Ginger Mints (3 in stock) : $3.00]
+2022-02-10T19:13:02.801936 : Item at a1: [Twinkle Pie (3 in stock) : $2.50] UPDATED to: [Twinkle Pie (2 in stock) : $2.50]
